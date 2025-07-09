@@ -1,175 +1,134 @@
+<div id="top"></div>
+<div align="center"><img width="100%" alt="Welcome to my profile!" src="https://github.com/Carol42/Carol42/blob/main/assets/header.png"></div>
 
-<!--Night Owl image-->
+<div align="center" id="top">
+  <img src="https://profile-readme-generator.com/assets/app.png" width="900" alt="Profile Readme Generator" />
+  <a href="https://profile-readme-generator.com">Demo</a>
+</div>
+
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=450&lines=I'm+Emmah+Cook;She/her;Computer+Engineering+Student;Kenyan+Frontend+Dev;Cat+Lover+:3;Power+Metal+Lover+%3C3;function+findQuestion(42)" alt="Typing intro banner" />
+  </a>
+</div>
+
+
+<!-- Night Owl Image -->
 <div>
   <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
 </div>
 
-<!--Header Name-->
-# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ ᴇᴍᴍᴀʜ ᴄᴏᴏᴋ! 
-*Digital Craftswoman (Developer / Programmer)*
-<br />
+# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ ᴇᴍᴍᴀʜ! 
+*Digital Craftsman (Developer / Programmer)*
 
-<!--Start Intro-->               
-<p align="left">I am a Full Stack Developer and Machine Learning Enthusiast with a huge love for Python, React.js, Node.js, Django, RDBMS, REST API and Data Visualization. </p>
+<p align="left">I am a Full Stack Developer and Machine Learning Enthusiast with a huge love for Python, React.js, Node.js, Django, RDBMS, REST API and Data Visualization.</p>
 
 - ✨ Student of life :)
-- 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
-- 💁‍♀️ Trusted member and Moderator at [DEV Community](https://dev.to)
-- 🏙 A lifetime insider and Mentor at [Exercism](https://exercism.org/profiles/emmah-cook).
-- ✍ I write technical blogs, You can visit my blog site at [DEV](https://dev.to/emmah_cook).
-- ❤ Contributing to Open Source.
-- 💻 Visit my [Portfolio](https://emmahcook.github.io) for more details about me.
-<!--End Intro-->
+- 🌱 I’m currently learning many things — every day is a learning opportunity.
+- ✍ I write technical blogs sometimes on [DEV](https://dev.to)
+- ❤ Contributing to Open Source
+- 💻 Visit my [Portfolio](https://portfolio-carol42.vercel.app) for more details about me.
 
-<!--Profile Count Badge-->
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=emmahcook&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="emmahcook" style="padding-right:20px;" />
+  <img src="https://komarev.com/ghpvc/?username=EmmahCook&label=Profile%20views&color=770677&style=for-the-badge&logo=star" />
 </p>
 
 ---
 
-<!--Languages and Tools Section-->       
-<h2 align="center">Tᴇᴄʜ sᴛᴀᴄᴋ & Lᴀᴛᴇsᴛ ʙʟᴏɢs</h2> 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
-  <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
-  <img align="left" alt="GIF description" src="./Skills_Animation_White.gif">
-</picture>
-<br />
+## :busts_in_silhouette: How to reach me
+[![GitHub Followers](https://img.shields.io/github/followers/Carol42?style=for-the-badge&color=181717&logo=github&label=@EmmahCook)](https://github.com/Carol42)
+[![CodePen](https://img.shields.io/static/v1?label&message=/EmmahCook&color=000000&style=for-the-badge&logo=codepen)](https://codepen.io/Carol42)
+[![LinkedIn](https://img.shields.io/static/v1?label&message=/in/emmah-cook&color=0A66C2&style=for-the-badge&logo=linkedin)](https://linkedin.com/in/carol42)
+[![Twitter](https://img.shields.io/static/v1?style=for-the-badge&label&message=@emmahcodes&color=000&logo=x)](https://twitter.com/carol42helo/)
+[![Email](https://img.shields.io/static/v1?label&message=emmah.dev@gmail.com&color=whitesmoke&style=for-the-badge&logo=gmail)](mailto:carol42.helo@gmail.com)
 
-<h3 align="left">Current Learning</h3>
-<ul align="left">
-  <li>Deepening my knowledge in Machine Learning and AI.</li>
-  <li>Exploring advanced React.js patterns and state management techniques.</li>
-  <li>Improving my skills in cloud computing with AWS and Azure.</li>
-</ul>
+---
 
-<h3 align="left">Latest Blog Posts</h3>
-<ul align="left">
-  <li><a href="https://dev.to/emmah_cook/storyblok-mcp-server-let-ai-agents-manage-your-content-3jaa">🔥Storyblok MCP Server: Let AI Agents Manage Your Content 🤖</a></li>
-  <li><a href="https://dev.to/emmah_cook/pulstack-deploy-your-static-site-to-s3-or-github-in-1-min-5cin">🔥Pulstack: Deploy your static site to S3 or GitHub in <1 min🙂</a></li>
-  <li><a href="https://dev.to/emmah_cook/i-tried-out-qodos-new-embed-model-qodo-embed-1-40h5">I Tried Out Qodo's New Embed Model Qodo-Embed-1🤯</a></li>
-</ul>
-<br />
-<br />
-<br />
-<br />
+## :bulb: Languages & Frameworks I code in
+![HTML5](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg)
+![CSS3](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg)
+![JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg)
+![ReactJS](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg)
+![NodeJS](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg)
+![Python](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg)
+![C](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg)
+![Markdown](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg)
+![Next.js](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg)
 
-<!--Trophies Section-->   
-<h2 align="center">🏆 Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs 🏆</h2>
-<p align="center">
-  <a href="https://github.com/emmahcook">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=emmahcook&no-bg=true&row=2&column=6&margin-w=20&margin-h=20&theme=monokai">
-      <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=emmahcook&no-bg=true&row=2&column=6&margin-w=20&margin-h=20">
-      <img alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=emmahcook&no-bg=true&no-frame=true&row=2&column=6&margin-w=20&margin-h=20">
-    </picture>
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/daytonaio/daytona">
-    <img
-      src="https://api.vaunt.dev/v1/github/entities/emmahcook/achievements?format=svg&limit=6"
-      width="400"
-    />
-  </a>
-</p>
-<br />
+---
 
-<!--Github stats Table--> 
-<h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
+## :hammer_and_wrench: Tools that help me code
+![VS Code](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg)
+![Git](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg)
+![GitHub](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg)
+![Ubuntu](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg)
+![Windows](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg)
+![Firefox](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firefox/firefox-original.svg)
+![Yarn](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg)
+![Heroku](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original-wordmark.svg)
+![GIMP](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg)
+![Linux](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg)
 
-<table width="100%">
-  <tr>
-    <td width="50%">
-      <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
-      <p align="center">
-        <a href="https://github.com/emmahcook">
-          <img align="center" src="https://github-readme-stats.vercel.app/api?username=emmahcook&count_private=true&show_icons=true&theme=nightowl&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff&rank_icon=github&hide=prs,issues,contribs&show=reviews,prs_merged,prs_merged_percentage" alt="GitHub Stats" />
-        </a>
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
-      <p align="center">
-        <a href="https://github.com/emmahcook">
-          <img align="center" src="https://streak-stats.demolab.com?user=emmahcook&theme=nightowl&background=0,000000,441350&fire=ffeb95&ring=ffeb95&sideNums=ffffff&sideLabels=ffffff&dates=c56a90&currStreakNum=ffffff" alt="Streak Stats" />
-        </a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center"><strong>Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ</strong></h3>
-      <p align="center">
-        <a href="https://github.com/emmahcook/awesome-kenyan-devs">
-          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=emmahcook&repo=awesome-kenyan-devs&theme=nightowl&show_owner=true&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Awesome-Kenyan-Devs" />
-        </a>
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center"><strong>Tᴏᴘ Cᴏɴᴛʀɪʙᴜᴛɪᴏɴs</strong></h3>
-      <p align="center">
-        <a href="https://github.com/emmahcook">
-          <img align="center" src="https://github-contributor-stats.vercel.app/api?username=emmahcook&limit=2&theme=nightowl&show_owner=true&combine_all_yearly_contributions=false&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Top Repo" />
-        </a>
-      </p>
-    </td>
-  </tr>
+---
+
+## 🇰🇪 Kenyan Proud!
+<table align="right">
+ <tr><td><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/google/350/flag-kenya_1f1f0-1f1ea.png" width="17px"> English</td></tr>
 </table>
-<br />
-
-<!--Contribution Graph-->
-<h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
-<div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=emmahcook&bg_color=220a28&&color=ffffff&line=c56a90&point=ffeb95&area=false&hide_border=false" border-radius="15">
-</div>
 
 ---
 
-<!--Dynamic Quote card updates everyday at 12 PM--> 
-<h2 align="center">🌟 Tʜᴏᴜɢʜᴛ ᴏғ ᴛʜᴇ Dᴀʏ 🌟</h2>
-<!--STARTS_HERE_QUOTE_CARD-->
+## 🎵 Now playing
+<a href="https://open.spotify.com/user/31lnn6iv3gugv4kpc2mjusnwv7cq">
+  <img src="https://spotify-now-playing-carol42.vercel.app/api/spotify" alt="Now playing on Spotify" />
+</a>
+
+<details>
+  <summary>Recently played</summary>
+  <a href="https://open.spotify.com/user/31lnn6iv3gugv4kpc2mjusnwv7cq">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31lnn6iv3gugv4kpc2mjusnwv7cq&unique=true&count=10" />
+  </a>
+</details>
+
+---
+
+## 🎧 Top albums of the week
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Seneca&quote=Difficulties%20strengthen%20the%20mind%2C%20as%20labor%20does%20the%20body.%20%20&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+  <a href="https://www.last.fm/music/Edguy/Vain+Glory+Opera"><img src="https://lastfm.freetls.fastly.net/i/u/64s/64c5b356ffe28f677ee1ed81d6edde55.jpg" title="Edguy - Vain Glory Opera"></a>
+  <a href="https://www.last.fm/music/The+Beatles/Rubber+Soul+(Remastered+2009)"><img src="https://lastfm.freetls.fastly.net/i/u/64s/01d7f40bb40cef0e86251d491542943b.png" title="The Beatles - Rubber Soul"></a>
 </p>
-<!--ENDS_HERE_QUOTE_CARD-->
 
-<!--Contact Section-->
-<h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝 </h2>
-<div align="center">
-<a href="mailto:emmah.cook.dev@gmail.com" target="_blank">
-<img src="./gmail.png" width=50 height=50 alt="emmah.cook.dev@gmail.com" style="margin-bottom: 5px;" />
-</a>
+---
 
-<a href="https://x.com/emmah_cook" target="_blank">
-<img src="./twitter.png" width=50 height=50 alt="emmah_cook" style="margin-bottom: 5px;" />
-</a>
-
-<a href="https://www.instagram.com/emmah_cook" target="_blank">
-<img src="./instagram.png" width=50 height=50 alt="emmah_cook" style="margin-bottom: 5px;" />
-</a>
-
-<a href="https://www.github.com/emmahcook" target="_blank">
-<img src="./github.png" width=50 height=50 alt="emmahcook" style="margin-bottom: 5px;" />
-</a>
-
-<a href="https://www.linkedin.com/in/emmah-cook/" target="_blank">
-<img src="./linkedin.png" width=50 height=50 alt="linkedin" style="margin-bottom: 5px;" />
-</a>
-
-<a href="https://dev.to/emmah_cook" target="_blank">
-<img src="./dev_to.png" width=50 height=50 alt="dev_emmah" style="margin-bottom: 5px;" />
-</a>
-</div>
-<br/>
-
-<!--Buy me a coffee-->
-<div align="center">
-<a href="https://www.buymeacoffee.com/emmahcook" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 40px !important;width: 200px !important;" ></a>
-</div>
-
-<!--Footer--> 
+## 🌟 Thought of the day
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
+  <img src="https://readme-daily-quotes.vercel.app/api?author=Seneca&quote=Difficulties%20strengthen%20the%20mind%2C%20as%20labor%20does%20the%20body.%20%20&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
+
+---
+
+## 🎉 GitHub Stats & Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Carol42&theme=darkhub&no-frame=true&column=7" />
+</p>
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats-carol42.vercel.app/api?username=Carol42&count_private=true&show_icons=true&theme=midnight-purple&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats-carol42.vercel.app/api/top-langs/?username=Carol42&theme=midnight-purple&hide_border=true&layout=compact" />
+</p>
+
+---
+
+## 📬 Guestbook
+Leave a message [here](https://github.com/Carol42/Carol42/issues/new?template=guestbook-entry.md)  
+or ask me anything on [Discussions](https://github.com/Carol42/Carol42/discussions/new/choose)!
+
+---
+
+<p align="center">
+  <a href="#top">
+    <img src="https://img.shields.io/static/v1?label&message=back+to+top&color=7E3ACE&style=flat&logo" alt="back to top" />
+  </a>
+</p>
+
+<div align="center"><img alt="footer" width="100%" src="https://github.com/Carol42/Carol42/blob/main/assets/footer.png"></div>
