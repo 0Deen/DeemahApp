@@ -1,136 +1,71 @@
-<div id="top"></div>
-<div align="center"><img width="100%" alt="Welcome to my profile!" src="https://github.com/Carol42/Carol42/blob/main/assets/header.png"></div>
+<!-- <p align="center">
+<video src="https://github.com/0Deen/DeemahApp/blob/main/screenshots/a.jpg" controls></video>
 
-<div align="center" id="top">
-  <img src="https://profile-readme-generator.com/assets/app.png" width="900" alt="Profile Readme Generator" />
-  <a href="https://profile-readme-generator.com">Demo</a>
-</div>
+### 🎨 Color Themes & Dark Mode
 
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=450&lines=I'm+Emmah+Cook;She/her;Computer+Engineering+Student;Kenyan+Frontend+Dev;Cat+Lover+:3;Power+Metal+Lover+%3C3;function+findQuestion(42)" alt="Typing intro banner" />
-  </a>
-</div>
+Choose from various color themes and toggle between light and dark modes to suit your preferences.
 
+<img src="https://github.com/0Deen/DeemahApp/blob/main/screenshots/b.jpg" width="500px" />
 
-<!-- Night Owl Image -->
-<div>
-  <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
-</div>
+### 🗣️ Task Reading Aloud
 
-# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ ᴇᴍᴍᴀʜ! 
-*Digital Craftsman (Developer / Programmer)*
+Option to have tasks read aloud using the native `SpeechSynthesis` API, with a selection of voices to choose from.
 
-<p align="left">I am a Full Stack Developer and Machine Learning Enthusiast with a huge love for Python, React.js, Node.js, Django, RDBMS, REST API and Data Visualization.</p>
+<img src="https://github.com/0Deen/DeemahApp/blob/main/screenshots/h.jpg" width="260px" alt="Task Reading Aloud" />
 
-- ✨ Student of life :)
-- 🌱 I’m currently learning many things — every day is a learning opportunity.
-- ✍ I write technical blogs sometimes on [DEV](https://dev.to)
-- ❤ Contributing to Open Source
-- 💻 Visit my [Portfolio](https://portfolio-carol42.vercel.app) for more details about me.
+### 📥 Import/Export Tasks
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=EmmahCook&label=Profile%20views&color=770677&style=for-the-badge&logo=star" />
-</p>
+Users can import and export tasks to/from JSON files. This feature allows users to back up their tasks or transfer them to other devices easily.
 
----
+<img src="https://github.com/0Deen/DeemahApp/blob/main/screenshots/ma.jpg" width="260px" />
 
-## :busts_in_silhouette: How to reach me
-[![GitHub Followers](https://img.shields.io/github/followers/Carol42?style=for-the-badge&color=181717&logo=github&label=@EmmahCook)](https://github.com/Carol42)
-[![CodePen](https://img.shields.io/static/v1?label&message=/EmmahCook&color=000000&style=for-the-badge&logo=codepen)](https://codepen.io/Carol42)
-[![LinkedIn](https://img.shields.io/static/v1?label&message=/in/emmah-cook&color=0A66C2&style=for-the-badge&logo=linkedin)](https://linkedin.com/in/carol42)
-[![Twitter](https://img.shields.io/static/v1?style=for-the-badge&label&message=@emmahcodes&color=000&logo=x)](https://twitter.com/carol42helo/)
-[![Email](https://img.shields.io/static/v1?label&message=emmah.dev@gmail.com&color=whitesmoke&style=for-the-badge&logo=gmail)](mailto:carol42.helo@gmail.com)
+### 📴 Progressive Web App (PWA)
 
----
+This app is a Progressive Web App (PWA), which means it can be installed on your device, **used even when you're offline**, and behave like a native app with shortcuts and app badges.
 
-## :bulb: Languages & Frameworks I Code In  
-⭐ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="24" /> 
-⭐ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="24" /> 
-⭐ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="24" /> 
-⭐ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="24" /> 
-⭐ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="24" /> 
-⭐ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="24" /> 
-⭐ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="24" /> 
-⭐ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="24" /> 
-⭐ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" width="24" />
+<img src="https://github.com/0Deen/DeemahApp/blob/main/screenshots/oh.jpg" alt="taskbar" width="260px" />
 
+### 🔄 Update Prompt
 
----
+The app features a custom update prompt that notifies users when a new version is available, allowing for easy refresh to access the latest improvements.
 
-## :hammer_and_wrench: Tools That Help Me Code  
-⭐ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="30" />  
-⭐ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30" />  
-⭐ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30" />  
-⭐ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" width="30" />  
-⭐ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="30" />  
-⭐ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firefox/firefox-original.svg" width="30" />  
-⭐ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" width="30" />  
-⭐ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original-wordmark.svg" width="30" />  
-⭐ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" width="30" />  
-⭐ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="30" />
+<img src="https://github.com/0Deen/DeemahApp/blob/main/screenshots/pro.jpg" alt="update prompt" width="260px" />
 
+### 📱 Custom Splash Screens
 
----
+This app includes splash screens for various iOS and iPadOS devices. These splash screens provide a smooth, native-like launch experience.
 
-## 🇰🇪 Kenyan Proud!
-<table align="right">
- <tr><td><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/google/350/flag-kenya_1f1f0-1f1ea.png" width="17px"> English</td></tr>
-</table>
+<img src="https://github.com/0Deen/DeemahApp/blob/main/screenshots/h.jpg" alt="Splash Screen Example" width="450px" />
 
----
+-->
 
-## 🎵 Now playing
-<a href="https://open.spotify.com/user/31lnn6iv3gugv4kpc2mjusnwv7cq">
-  <img src="https://spotify-now-playing-carol42.vercel.app/api/spotify" alt="Now playing on Spotify" />
-</a>
+## 👨‍💻 Installation
 
-<details>
-  <summary>Recently played</summary>
-  <a href="https://open.spotify.com/user/31lnn6iv3gugv4kpc2mjusnwv7cq">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31lnn6iv3gugv4kpc2mjusnwv7cq&unique=true&count=10" />
-  </a>
-</details>
+To install and run the project locally, follow these steps:
 
----
+- Clone the repository: `git clone https://github.com/0Deen/DeemahApp.git`
+- Navigate to the project directory: `cd DeemahApp`
+- Install the dependencies: `npm install`
+- Start the development server: `npm run dev`
 
-## 🎧 Top albums of the week
-<p align="center">
-  <a href="https://www.last.fm/music/Edguy/Vain+Glory+Opera"><img src="https://lastfm.freetls.fastly.net/i/u/64s/64c5b356ffe28f677ee1ed81d6edde55.jpg" title="Edguy - Vain Glory Opera"></a>
-  <a href="https://www.last.fm/music/The+Beatles/Rubber+Soul+(Remastered+2009)"><img src="https://lastfm.freetls.fastly.net/i/u/64s/01d7f40bb40cef0e86251d491542943b.png" title="The Beatles - Rubber Soul"></a>
-</p>
+The app will now be running at [http://localhost:5173/](http://localhost:5173/).
 
----
+> [!TIP]
+> For mobile device testing, use `npm run dev:host` to preview the app on your local network.
 
-## 🌟 Thought of the day
-<p align="center">
-  <img src="https://readme-daily-quotes.vercel.app/api?author=Seneca&quote=Difficulties%20strengthen%20the%20mind%2C%20as%20labor%20does%20the%20body.%20%20&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
-</p>
+## 📷 Screenshots
 
----
+<img src="https://github.com/0Deen/DeemahApp/blob/main/screenshots/a.jpg" width="300px" />
+<img src="https://github.com/0Deen/DeemahApp/blob/main/screenshots/b.jpg" width="300px" />
+<img src="https://github.com/0Deen/DeemahApp/blob/main/screenshots/h.jpg" width="300px" />
+<img src="https://github.com/0Deen/DeemahApp/blob/main/screenshots/ma.jpg" width="300px" />
+<img src="https://github.com/0Deen/DeemahApp/blob/main/screenshots/oh.jpg" width="300px" />
+<img src="https://github.com/0Deen/DeemahApp/blob/main/screenshots/pro.jpg" width="300px" />
 
-## 🎉 GitHub Stats & Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Carol42&theme=darkhub&no-frame=true&column=7" />
-</p>
+## 🚀 Performance
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats-carol42.vercel.app/api?username=Carol42&count_private=true&show_icons=true&theme=midnight-purple&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats-carol42.vercel.app/api/top-langs/?username=Carol42&theme=midnight-purple&hide_border=true&layout=compact" />
-</p>
+<img src="https://github.com/0Deen/DeemahApp/blob/main/screenshots/h.jpg" width="600px" />
 
----
+## 📄 License
 
-## 📬 Guestbook
-Leave a message [here](https://github.com/Carol42/Carol42/issues/new?template=guestbook-entry.md)  
-or ask me anything on [Discussions](https://github.com/Carol42/Carol42/discussions/new/choose)!
-
----
-
-<p align="center">
-  <a href="#top">
-    <img src="https://img.shields.io/static/v1?label&message=back+to+top&color=7E3ACE&style=flat&logo" alt="back to top" />
-  </a>
-</p>
-
-<div align="center"><img alt="footer" width="100%" src="https://github.com/Carol42/Carol42/blob/main/assets/footer.png"></div>
+Made with ❤️ by [Kiprotich](https://github.com/0Deen/DeemahApp), licensed under [MIT](https://github.com/0Deen/DeemahApp/blob/main/LICENSE).
