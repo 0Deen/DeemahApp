@@ -58,17 +58,18 @@
 
 ---
 
-## :hammer_and_wrench: Tools that help me code
-![VS Code](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg)
-![Git](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg)
-![GitHub](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg)
-![Ubuntu](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg)
-![Windows](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg)
-![Firefox](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firefox/firefox-original.svg)
-![Yarn](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg)
-![Heroku](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original-wordmark.svg)
-![GIMP](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg)
-![Linux](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg)
+## :hammer_and_wrench: Tools That Help Me Code  
+⭐ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="30" />  
+⭐ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30" />  
+⭐ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30" />  
+⭐ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" width="30" />  
+⭐ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="30" />  
+⭐ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firefox/firefox-original.svg" width="30" />  
+⭐ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" width="30" />  
+⭐ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original-wordmark.svg" width="30" />  
+⭐ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" width="30" />  
+⭐ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="30" />
+
 
 ---
 
